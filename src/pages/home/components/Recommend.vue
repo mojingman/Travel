@@ -24,8 +24,8 @@
           list:Array
       },
         data(){
-          /*return{
-            recommendList:[{
+          return{
+            /*recommendList:[{
               id:'0001',
               imgUrl:'http://img1.qunarzz.com/sight/p0/1904/a2/a23ae48aac0c0ab2a3.water.jpg_200x200_38cef490.jpg',
               title:'西溪国家湿地洪园',
@@ -40,8 +40,8 @@
               imgUrl:'http://img1.qunarzz.com/sight/p0/1904/a2/a23ae48aac0c0ab2a3.water.jpg_200x200_38cef490.jpg',
               title:'西溪国家湿地洪园',
               desc:'春天的记忆是从花开始，梅花、桃花绽放，柳树抽芽，绿水泱泱，自此进入风和日丽的明媚时节。'
-            }]
-          }*/
+            }]*/
+          }
 
         }
     }
